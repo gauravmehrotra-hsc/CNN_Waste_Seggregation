@@ -1,2 +1,5 @@
 # CNN_Waste_Seggregation
-Waster Seggregation CNN Model
+Waste Seggregation CNN Model
+
+# Analysis and Visulaization
+Refer the attached PDF
